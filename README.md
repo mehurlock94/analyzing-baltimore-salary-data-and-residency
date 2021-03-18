@@ -14,7 +14,7 @@ All data from this analysis comes from the [Opportunity Atlas Project](https://w
 - [Employee Salaries](https://github.com/mehurlock94/analyzing-baltimore-salary-data-and-residency/blob/main/Baltimore_Employee_Salaries.csv)
 - [Employee Permanent Residencies](https://github.com/mehurlock94/analyzing-baltimore-salary-data-and-residency/blob/main/Baltimore_City_Employee_Residency_by_Agency.csv)
 
-For detailed workflow, please see [data analysis](https://github.com/mehurlock94/analyzing-baltimore-salary-data-and-residency/blob/main/data-analysis-workflow)
+For detailed workflow, please see [data analysis](https://github.com/mehurlock94/analyzing-baltimore-salary-data-and-residency/blob/main/data-analysis-workflow.md)
 
 ## Data Question - Analysis
 Microsoft Excel was used to answer the following:
